@@ -17,6 +17,7 @@ User can book any room
 User can the status of room
 
 How you can get the project ?
+
 Download source code
 After downloading the zip file, extract the zip file.
 Copy the extracted folder (royal) to xampp->htdocs folder.
